@@ -15,6 +15,8 @@ v$VERSION
 
 VS Code v$(vscode_version)
 
+See [upgrading](doc/install.md#upgrading) to upgrade.
+
 ## New Features
   - ⭐ Summarize new features here with references to issues
 
